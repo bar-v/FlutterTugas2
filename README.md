@@ -1,17 +1,6 @@
 # belajar_flutter_bar
 
-A new Flutter project.
+## hasil running aplikasi
+<img width="524" height="484" alt="image" src="https://github.com/user-attachments/assets/6418e41b-928c-46e0-94d8-1e95e2442ab6" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="500" height="622" alt="image" src="https://github.com/user-attachments/assets/f3c4865e-0963-4794-a10c-af22f98b9fb3" />
