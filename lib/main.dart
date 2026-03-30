@@ -39,17 +39,7 @@ class _PraktikumPageState extends State<PraktikumPage> {
             child: SingleChildScrollView(
               padding: const EdgeInsets.all(16),
               child: const Text(
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
-                "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-                "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-                "nisi ut aliquip ex ea commodo consequat. "
-                "Duis aute irure dolor in reprehenderit in voluptate velit esse "
-                "cillum dolore eu fugiat nulla pariatur. "
-                "Excepteur sint occaecat cupidatat non proident, sunt in culpa "
-                "qui officia deserunt mollit anim id est laborum."
-                "Tambahkan lagi teks panjang agar terlihat bisa scroll..."
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
-                "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "Manusia menemukan banyak cara aneh untuk menikmati kafein. Salah satu yang cukup elegan datang dari Aceh: kopi sanger. Minuman ini lahir dari budaya warung kopi di Aceh, wilayah yang memang terkenal dengan tradisi minum kopi yang kuat, terutama karena produksi kopi dari daerah seperti Dataran Tinggi Gayo. Kopi sanger dipercaya mulai populer di kalangan mahasiswa dan pelanggan warung kopi di Banda Aceh pada sekitar tahun 1990-an. Kata “sanger” sendiri sering dijelaskan sebagai singkatan dari sama-sama ngerti, sebuah istilah informal antara pembeli dan peracik kopi yang berarti keduanya saling memahami bahwa minuman ini dibuat dengan porsi kopi dan gula yang lebih hemat dibanding kopi susu biasa, sehingga harganya lebih murah namun tetap nikmat. Dalam penyajiannya, kopi sanger dibuat dari kopi hitam khas Aceh yang diseduh kuat, kemudian dicampur dengan sedikit susu kental manis dan gula. Campuran tersebut biasanya ditarik berulang kali antara dua gelas oleh peracik kopi, teknik yang tidak hanya membantu mencampurkan bahan secara merata tetapi juga menghasilkan busa halus di permukaan minuman. Teknik tarik ini juga memberi tekstur yang lebih ringan dibanding kopi susu biasa. Seiring waktu, kopi sanger menjadi bagian penting dari budaya warung kopi Aceh, tempat masyarakat berkumpul untuk berdiskusi, bersosialisasi, atau sekadar menghabiskan waktu. Hingga kini, minuman ini tetap populer dan menjadi salah satu ikon kuliner kopi dari Aceh yang dikenal luas di berbagai daerah di Indonesia.",
                 textAlign: TextAlign.justify,
                 style: TextStyle(fontSize: 16),
               ),
